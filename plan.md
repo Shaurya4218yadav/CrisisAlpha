@@ -327,6 +327,7 @@ Example ticks:
 - Day 3
 - Day 5
 - Day 7
+- Day 9
 
 Or internal ticks every few simulated hours if you want smoother playback.
 
